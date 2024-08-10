@@ -1,5 +1,5 @@
 # Data_Professional_Servey_PowerBI_Project
-This project includes a Power BI (.pbix) file and a PDF report as the final deliverables.
+This project includes a Power BI (.pbix) file.
 
 ## Steps Covered
 1. Connecting the Database with Power BI Desktop
